@@ -10,3 +10,6 @@ Jessica Ginkel war eine Schauspielerin aus der Serie "Der Lehrer". Vor ihrer Sch
 * Sprachen: englisch
 * Musik: Gesang (Sopran), Klavier
 * Führerschein: PKW (B), Motorrad
+
+Wie Jessica Ginkel einmal sagte:
+> Uff, das war ein ganz schöner Brocken!
