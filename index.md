@@ -13,3 +13,5 @@ Jessica Ginkel war eine Schauspielerin aus der Serie "Der Lehrer". Vor ihrer Sch
 
 Wie Jessica Ginkel einmal sagte:
 > Uff, das war ein ganz schöner Brocken!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Jessica_Ginkel_%281%29.jpg">
